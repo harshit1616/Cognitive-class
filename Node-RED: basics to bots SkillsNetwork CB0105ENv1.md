@@ -36,8 +36,8 @@
 5.	The http request node is used to send HTTP requests.-True
 
 •	Final exam :
-1.	What do you use the inject node for?- Initiate a flow Initiate a flow 
-2.	The Watson Language Identify node expects its input text to be provided in what object? msg.payload 
+1.	What do you use the inject node for?- Initiate a flow 
+2.	The Watson Language Identify node expects its input text to be provided in what object?- msg.payload 
 3.	For Node-RED on IBM Cloud, how do you install additional nodes?— Add new dependencies in package.json
 4.	What can you use function nodes for?- Create JavaScript code blocks 
 5.	The Watson Speech to Text node outputs to which object?- msg.transcription
