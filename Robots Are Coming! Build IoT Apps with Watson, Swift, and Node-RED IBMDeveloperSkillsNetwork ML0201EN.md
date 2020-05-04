@@ -2,7 +2,7 @@
 
 * Lab 1: Read temperature data from an IoT sensor:
 1. In Lab 1, what is the main purpose of the Internet of Things Platform Starter? - To facilitate communication between the Node-RED instance running on the Raspberry Pi and the instance running on IBM Cloud
-2. In Lab 1, where exactly does the Swift UI get the temperature data from?- From the Cloudant database From the Cloudant database
+2. In Lab 1, where exactly does the Swift UI get the temperature data from?- From the Cloudant database
 3. What imported library is required for you to do CRUD operations on the Cloudant database in IBM Cloud?- SwiftCloudant
 4. In Lab 1, why did you need two Node-RED flows? -  To get sensor data (flow 1) and then to send it to IBM Cloud (flow 2) To get sensor data (flow 1) and then to send it to IBM Cloud (flow 2)
 5. In which Node-RED node do you initially enter a device ID? In this lab, the device ID is from the virtual temperature sensor. - IBM IoT App In
