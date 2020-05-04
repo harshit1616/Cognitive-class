@@ -27,7 +27,7 @@
 3. Which Watson services can you use to build a voice user interface to access IoT devices? - Speech to Text, Text to Speech
 4. You typically need to install a node package to get Cloudant database nodes in Node-RED. - True
 5. How does BM Watson Visual Recognition determine what's in an image? - By deciding what categories the image and the parts of an image fall into
-6. In this course, how did you connect the Raspberry PI to the iRobot?-  The iRobot serial port The iRobot serial port
+6. In this course, how did you connect the Raspberry PI to the iRobot?-  The iRobot serial port 
 7. IBM Cloudant is an example of which of the following service types? Select all that apply.- NA
 8. What action does the following code perform?-  Sends a command over an MQTT connection
 9. What method can you use to extend the functionality of Raspbian Jessie?- npm
