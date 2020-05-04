@@ -43,6 +43,6 @@
 5.	The Watson Speech to Text node outputs to which object?- msg.transcription
 6.	What are the three main categories of nodes?—  input, output, function input, output, function 
 7.	In this course, the microphone node from Lab 3 is available as a core Node-RED node.-False
-8.	What does the Watson Tone Analyzer service do?— Analyzes emotions, such as happy, sad, confident, anger, in text Analyzes emotions, such as happy, sad, confident, anger, in text 
+8.	What does the Watson Tone Analyzer service do?— Analyzes emotions, such as happy, sad, confident, anger, in text 
 9.	The http request node is used to send HTTP requests.-True
 10.	Node-RED is based on which programming language?-  Node.js 
