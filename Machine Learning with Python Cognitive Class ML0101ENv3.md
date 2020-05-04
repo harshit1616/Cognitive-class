@@ -31,11 +31,11 @@
 3.	CN
 4.	To calculate a model’s accuracy using the test set, you pass the test set to your model to predict the class labels, and then compare the predicted values with actual values. — True
 5.	Which is the definition of entropy? — The amount of information disorder in the data.
-6.	Which of the following is true about hierarchical linkages? — Average linkage is the average distance of each point in one cluster to every point in another cluster Average linkage is the average distance of each point in one cluster to every point in another cluster
+6.	Which of the following is true about hierarchical linkages? — Average linkage is the average distance of each point in one cluster to every point in another cluster 
 7.	The goal of regression is to build a model to accurately predict the continues value of a dependent variable for an unknown case. — True
 8.	Which of the following statements are true about linear regression? (Select all that apply) — (a)With linear regression, you can fit a line through the data. ; (b) y=a+b_x1 is the equation for a straight line, which can be used to predict the continuous value y.
 9.	The Sigmoid function is the main part of logistic regression, where Sigmoid of 𝜃^𝑇.𝑋, gives us the probability of a point belonging to a class, instead of the value of y directly. — True
-10.	In comparison to supervised learning, unsupervised learning has: EITHER Less tests (evaluation approaches) OR A better controlled environment
+10.	In comparison to supervised learning, unsupervised learning has: EITHER Less tests (evaluation approaches) 
 11.	The points that are classified by Density-Based Clustering and do not belong to any cluster, are outliers. — True
 12.	Which of the following is false about Simple Linear Regression? — It is used for finding outliers It is used for finding outliers
 13.	Which one of the following statements is the most accurate? — Machine Learning is the branch of AI that covers the statistical and learning part of artificial intelligence.
