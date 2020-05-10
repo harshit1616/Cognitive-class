@@ -28,7 +28,7 @@
 •	Knowledge Test :
 1.	You can define Jaccard as the size of the intersection divided by the size of the union of two label sets. — True
 2.	When building a decision tree, we want to split the nodes in a way that increases entropy and decreases information gain. — False
-3.	CN
+3.	Which of the following statements are true? (Select all that apply.) : K needs to be initialised in K-Nearest Neighbor; Supervised Learning works on labelled data; Unsupervised Learning works on unlabelled data.
 4.	To calculate a model’s accuracy using the test set, you pass the test set to your model to predict the class labels, and then compare the predicted values with actual values. — True
 5.	Which is the definition of entropy? — The amount of information disorder in the data.
 6.	Which of the following is true about hierarchical linkages? — Average linkage is the average distance of each point in one cluster to every point in another cluster 
